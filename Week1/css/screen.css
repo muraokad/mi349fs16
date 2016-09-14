@@ -5,15 +5,9 @@ body {
   /* #ccc is shorthand HEX for a light grey */
   background: #32A7AD;
 }
-<html>
-<head>
 <style>
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333333;
 }
 
 a {
