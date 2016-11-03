@@ -1,0 +1,12 @@
+Website Draft
+
+The website will be a portfolio for David Muraoka as well as an official website for the games that I have made. 
+There will be three main sections for the website: the first page, the contact/information page, and the games/download page. 
+The first page will consist of a “welcome” header which will give very basic information about myself and what this website is all about. 
+This will help make it clear if the user is in the right place for what they are looking for. 
+It will also show some images of the games I’ve worked on to give an impression of the game I’ve made if anyone is interested. 
+Below that will give more details on the games I’ve made and links to where they can be downloaded.
+The information page will be a rough summary about who I am and how to get all the information the user is looking for. 
+It will expand on the basic information presented on the first page and give links to both my resume and how to contact me. 
+The download page will be the main page where all the games that I have made will be held. 
+It will have details about each game as well as download links to them.
