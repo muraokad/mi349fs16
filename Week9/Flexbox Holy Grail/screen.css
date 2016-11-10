@@ -24,13 +24,14 @@ header, footer {
 }
 
 .content {
-    display: flex;
+  display: flex;
+  flex-direction: column;
 }
 
 .content section {
     padding: 1em;
-    flex: 1 1 0;
+    display: flex;
+    flex: 1;
 }
 .content section:first-of-type {
-    flex: 3 3 0;
 }
