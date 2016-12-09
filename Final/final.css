@@ -1,0 +1,125 @@
+@charset "UTF-8";
+/* Valeta Wensloffs's CSS Document.
+NOTE: You can replace my name with your name - this part up here is a CSS comment and is not telling the web browser to change the appearance of your html page(s). You could also put other things here, like the colors you picked for a quick reference. I like to do that so I can easily copy and paste the hex numbers when I need them. For Example:
+Dark Red: #862e19
+Cyan: #45b5dd
+Light Gray: #cccccc
+Dark Gray: #666666
+White: #ffffff
+*/
+
+a:link {
+	color:#464646;
+	text-decoration:underline;
+
+	}
+
+a:hover {
+	color:#00D05F;
+	text-decoration:underline;
+}
+
+a: visited {
+	color:#828282;
+}
+
+a:active {
+	background-color:#8A8A8A;
+}
+
+
+
+/* the html element below is the "background" of your page */
+html {
+	background-color:#EBF5FB;
+}
+
+body {
+	width: 761px;
+	margin: 1.5em auto; /* this + a defined width, centers the body content */
+	padding: 50px;
+	background-color: #63FAFE;
+}
+
+#nav {
+	list-style-type: none;
+	background-color: #C0BDBD;
+	border-color: #565656;
+	border-style: solid;
+	border-width: 10px;
+	width: 400px;
+	padding: 15px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+#nav a {
+	color:#464646;
+	text-decoration:none;
+	padding: 10px;
+
+}
+
+#nav li{
+display:inline;
+}
+
+#nav a:hover {
+	color:#F8FF00;
+	text-decoration:underline;
+
+}
+a: visited {
+	color:#828282;
+}
+
+a:active {
+	background-color:#8A8A8A;
+}
+
+
+h1 {
+	text-align: center;
+	background-color: #FF9B8B;
+	color: #22242C;
+}
+
+h2 {
+	padding: 7px;
+	color: #22242C;
+}
+
+h3 {
+	color: #1C705A;
+}
+
+/* IMPORTANT: this will put a border around ALL images - so the banner AND the image of you. You may want to remove the border or change it! */
+img {
+	float: right;
+	border-color: #4F0001;
+	border-style: solid;
+	border-width: 2px;
+}
+
+
+/* The code below here alters your links */
+a {
+  font-weight: bold;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #006;
+}
+
+p {
+	padding-right: 240px;
+}
+
+div {
+	font-weight: bold;
+	background-color:#B48666;
+}
